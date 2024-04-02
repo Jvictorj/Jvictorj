@@ -1,32 +1,17 @@
-### Hi there 👋
 
-<!--
-**Jvictorj/Jvictorj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 👋 Estudante de Análise e Desenvolvimento de Sistemas, atualmente no terceiro período.
-- 🌱 Apaixonado por aprender e explorar o vasto mundo da tecnologia.
-- 💻 Conhecimento em **HTML, CSS, JavaScript, PHP e MySQL.**
-- ☁️  Experiência com computação em nuvem **AWS**.
-- 🔍 Em busca de oportunidades para aplicar meus conhecimentos e contribuir para projetos desafiadores.
-- 📚 Sempre empenhado em expandir minhas habilidades e conhecimentos através de projetos pessoais e acadêmicos.
-- 📫 Você pode me contatar em nome_de_usuario@gmail.com ou me encontrar no LinkedIn @seu_perfil_linkedin.
-
-Se você deseja criar uma descrição semelhante à do README.md do GitHub para o seu perfil no LinkedIn, pode adaptar as informações para que sejam mais adequadas para essa plataforma. Aqui está um exemplo de como você pode estruturar sua descrição no LinkedIn:
-
----
 
 ## Desenvolvedor Full Stack
 
-Olá! 👋 Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e desenvolvimento de software. Atualmente estou no 3º período da faculdade e buscando oportunidades para aplicar e expandir meus conhecimentos.
+## Olá! 👋 Sou um estudante de Análise e Desenvolvimento de Sistemas. Atualmente estou no 3º período da faculdade e buscando oportunidades para aplicar e expandir meus conhecimentos.
 
 ### Principais Habilidades:
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- MySQL
-- Computação em nuvem AWS (incluindo EC2, S3 e RDS)
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **PHP**
+- **MySQL**
+- **Computação em nuvem AWS (incluindo EC2, S3 e RDS)**
 
 ### Experiência e Projetos:
 
