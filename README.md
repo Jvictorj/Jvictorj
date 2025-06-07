@@ -6,7 +6,7 @@
 ---
 
 ### 💫 Sobre Mim
-Desenvolvedor Backend com foco no ecossistema **Java**, apaixonado por construir APIs e sistemas robustos, escaláveis e de alta performance. [cite_start]Com uma sólida formação em **Análise e Desenvolvimento de Sistemas**  [cite_start]e especialização prática em **Spring Boot, Arquitetura Limpa, Docker e deploy na nuvem AWS**, busco aplicar minhas habilidades para resolver problemas complexos e criar soluções tecnológicas de impacto.
+Desenvolvedor Backend com foco no ecossistema **Java**, apaixonado por construir APIs e sistemas robustos, escaláveis e de alta performance. Com uma sólida formação em **Análise e Desenvolvimento de Sistemas** e especialização prática em **Spring Boot, Arquitetura Limpa, Docker e deploy na nuvem AWS**, busco aplicar minhas habilidades para resolver problemas complexos e criar soluções tecnológicas de impacto.
 
 - 🔭 Atualmente aprimorando minhas habilidades em arquitetura de microsserviços e CI/CD.
 - 🌱 Buscando minha primeira oportunidade como Desenvolvedor Backend Java ou Analista de Sistemas.
