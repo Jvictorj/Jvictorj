@@ -73,7 +73,7 @@ Desenvolvedor Backend com foco no ecossistema **Java**, apaixonado por construir
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
   </p>
-  <p><a href="LINK_PARA_SEU_REPOSITORIO_AQUI" target="_blank"><b>🔗 Ver Repositório</b></a></p>
+  <p><a href="https://github.com/Jvictorj/SALUTEM" target"_blank"><b>🔗 Ver Repositório</b></a></p>
 </details>
 
 <details>
