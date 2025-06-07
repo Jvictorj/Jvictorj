@@ -1,63 +1,103 @@
+# João Vitor Gomes | Desenvolvedor Backend
 
-# 💫 Sobre Mim:
-<br><br> 👋 Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia e desenvolvimento de software. Atualmente estou no 3º período da faculdade e buscando oportunidades para aplicar e expandir meus conhecimentos.<br><br>🌱 Minha jornada na área de tecnologia começou com a aprendizagem de HTML, CSS e JavaScript. Com o passar do tempo, adquiri experiência em outras tecnologias como PHP, MySQL e Bootstrap. Além disso, estou explorando o mundo da computação em nuvem AWS.<br><br>💻 Tenho interesse em desenvolvimento web, onde posso utilizar minhas habilidades para criar aplicativos e sites dinâmicos e responsivos e estou estudando e praticando conceitos relacionados a bancos de dados, como modelagem, consultas SQL e otimização de desempenho. Também estou aberto a explorar outras áreas da tecnologia, como Computação em Nuvem e Ciência de dados.<br><br>🔍 Estou em busca de oportunidades de estágio ou colaboração em projetos que me permitam aplicar e aprimorar minhas habilidades como desenvolvedor. Sou dedicado, curioso e estou sempre em busca de aprender e crescer na área de tecnologia.<br><br>📚 Além dos estudos acadêmicos, estou sempre buscando recursos online, participando de comunidades de desenvolvimento e me mantendo atualizado sobre as tendências e práticas recomendadas na área de tecnologia.<br><br>
-
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-vitor-gomes-da-silva-08355b28a/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23969223/jo%c3%a3o-vitor-gomes) 
-[![Codepen](https://img.shields.io/badge/-CodePen-black?style=flat&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Jvictorj) 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:seu_email@gmail.com) 
+<a href="mailto:contato.joaovitorgs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-gomes-da-silva-08355b28a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ---
 
-# 📊 GitHub Stats:
+### 💫 Sobre Mim
+Desenvolvedor Backend com foco no ecossistema **Java**, apaixonado por construir APIs e sistemas robustos, escaláveis e de alta performance. [cite_start]Com uma sólida formação em **Análise e Desenvolvimento de Sistemas**  [cite_start]e especialização prática em **Spring Boot, Arquitetura Limpa, Docker e deploy na nuvem AWS**, busco aplicar minhas habilidades para resolver problemas complexos e criar soluções tecnológicas de impacto.
 
-![](https://github-readme-stats.vercel.app/api?username=Jvictorj&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jvictorj&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorj&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-
-# 💻 Principais Habilidades:
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
- ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
- ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+- 🔭 Atualmente aprimorando minhas habilidades em arquitetura de microsserviços e CI/CD.
+- 🌱 Buscando minha primeira oportunidade como Desenvolvedor Backend Java ou Analista de Sistemas.
+- 💬 Fique à vontade para entrar em contato para falar sobre tecnologia, projetos ou oportunidades!
 
 ---
 
-### Experiência e Projetos:
+### 🛠️ Tecnologias e Ferramentas
 
-- Desenvolvimento de projetos web utilizando tecnologias front-end e back-end.
-- Exploração e aprendizado contínuo em computação em nuvem AWS.
-- Colaboração em projetos de código aberto e contribuições para a comunidade de desenvolvimento.
-- ![Número de Projeto](https://img.shields.io/badge/Projetos-4-brightgreen)
+**Backend:** <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+**Frontend:** <p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+**Banco de Dados:** <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+**DevOps & Cloud:** <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</p>
 
 ---
 
-### Objetivo:
+### 🚀 Principais Projetos em Destaque
 
-Estou em busca de oportunidades de estágio ou colaboração em projetos que me permitam aplicar e aprimorar minhas habilidades como desenvolvedor.
+<details>
+  <summary><b>API de Gestão de Estoque - Backend com Java/Spring</b></summary>
+  <br>
+  <p>API RESTful completa para controle de estoque, desenvolvida para aplicar e solidificar conceitos avançados de backend.</p>
+  <p>
+    <b>Tecnologias:</b> 
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  </p>
+  <p><a href="LINK_PARA_SEU_REPOSITORIO_AQUI" target="_blank"><b>🔗 Ver Repositório</b></a></p>
+</details>
+
+<details>
+  <summary><b>Projeto Salutem - App de Nutrição com Integração de API</b></summary>
+  <br>
+  [cite_start]<p>Aplicativo para gerenciamento de dietas e treinos que integra dados nutricionais da Tabela TACO, com foco em usabilidade e performance. </p>
+  <p>
+    <b>Tecnologias:</b> 
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase"/>
+  </p>
+  <p><a href="LINK_PARA_SEU_REPOSITORIO_AQUI" target="_blank"><b>🔗 Ver Repositório</b></a></p>
+</details>
+
+<details>
+  <summary><b>Projeto Unipet - Sistema de Gestão Web</b></summary>
+  <br>
+  [cite_start]<p>Sistema de gestão para uma petshop com funcionalidades de autenticação (2FA) e gerenciamento de produtos e usuários. </p>
+  <p>
+    <b>Tecnologias:</b>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  </p>
+  <p><a href="LINK_PARA_SEU_REPOSITORIO_AQUI" target="_blank"><b>🔗 Ver Repositório</b></a></p>
+</details>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jvictorj&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+### 📊 Minhas Estatísticas no GitHub
 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jvictorj&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jvictorj&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jvictorj&theme=dracula&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorj&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jvictorj&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
