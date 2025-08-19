@@ -1,7 +1,7 @@
 # João Vitor Gomes | Desenvolvedor Backend
 
 <a href="mailto:contato.joaovitorgs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-gomes-da-silva-08355b28a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/joao-vitor-gomes-dev/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ---
 
