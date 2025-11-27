@@ -77,7 +77,7 @@ Desenvolvedor Backend com foco no ecossistema **Java**, apaixonado por construir
 </details>
 
 <details>
-  <summary><b>Projeto Unipet - Sistema de Gestão Web</b></summary>
+  <summary><b>Projeto Unipet - E-commerce</b></summary>
   <br>
   [cite_start]<p>Sistema de gestão para uma petshop com funcionalidades de autenticação (2FA) e gerenciamento de produtos e usuários. </p>
   <p>
