@@ -114,9 +114,9 @@ Desenvolvedor Backend com foco no ecossistema **Java**, apaixonado por construir
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jvictorj&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jvictorj&theme=dracula&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorj&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jvictorj&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Jvictorj&theme=dracula&hide_border=false&cache_seconds=1800" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvictorj&theme=dracula&hide_border=false&layout=compact&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 <br>
