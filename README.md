@@ -15,11 +15,13 @@
 <br>
 
 ### 💫 Sobre Mim
-Desenvolvedor Backend com foco no ecossistema **Java**, apaixonado por construir APIs e sistemas robustos, escaláveis e de alta performance. Com uma sólida formação em **Análise e Desenvolvimento de Sistemas** e especialização prática em **Spring Boot, Arquitetura Limpa, Docker e deploy na nuvem AWS**, busco aplicar minhas habilidades para resolver problemas complexos e criar soluções tecnológicas de impacto.
+Desenvolvedor Backend com experiência no desenvolvimento e manutenção de aplicações web utilizando **Java, Spring Boot, Node.js, Express, TypeScript e Angular.**, apaixonado por construir APIs e sistemas robustos, escaláveis e de alta performance. Com uma sólida formação em **Análise e Desenvolvimento de Sistemas**, busco aplicar minhas habilidades para resolver problemas complexos e criar soluções tecnológicas de impacto.
 
-- 🎓 **Formação:** Cursando Sistemas de Informação (UNISUAM) e Tecnólogo em Análise e Desenvolvimento de Sistemas.
-- 🚀 **Especialização Atual:** Imersão Java 10X Academy (Microsserviços, AWS, Docker).
-- 🔭 **Busco:** Oportunidade como Desenvolvedor Backend Java Júnior ou Full Stack.
+Atuei no desenvolvimento de sistemas de gestão, CRM, automação comercial, dashboards analíticos e integrações com WhatsApp, participando da evolução de uma plataforma SaaS utilizada por farmácias em todo o Brasil.
+
+Tenho experiência com APIs REST, autenticação JWT, modelagem de banco de dados relacionais, arquitetura em camadas, Docker, Git e boas práticas de desenvolvimento como SOLID e Clean Architecture.
+
+Atualmente busco oportunidades como Desenvolvedor Backend ou Full Stack para contribuir na construção de sistemas escaláveis, performáticos e de alta disponibilidade.
 
 ---
 
@@ -29,21 +31,36 @@ Desenvolvedor Backend com foco no ecossistema **Java**, apaixonado por construir
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway"/>
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-**DevOps & Cloud:** <p>
+**Frontend:** <p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+</p>
+
+**Banco de Dados:** <p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway"/>
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
+</p>
+
+**DevOps & Ferramentas:** <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-</p>
-
-**Frontend & Mobile:** <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 </p>
 
 ---
@@ -51,7 +68,7 @@ Desenvolvedor Backend com foco no ecossistema **Java**, apaixonado por construir
 ### 🚀 Projetos em Destaque
 
 <details>
-  <summary><b>📦 Sistema de Gestão de Estoque (Case Real)</b></summary>
+  <summary><b>📦 Sistema de Gestão de Estoque</b></summary>
   <br>
   <p>Solução desenvolvida para estabelecimento comercial que gerou impacto financeiro direto.</p>
   <ul>
@@ -113,6 +130,7 @@ Desenvolvedor Backend com foco no ecossistema **Java**, apaixonado por construir
 
 ### 📊 Estatísticas
 
+Sempre buscando evoluir através de projetos práticos, estudo contínuo e participação em aplicações reais de mercado.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jvictorj&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=Jvictorj&theme=dracula&hide_border=false&cache_seconds=1800" alt="GitHub Streak"/>
